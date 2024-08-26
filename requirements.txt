@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pmdarima
+scikit-learn
+matplotlib
+pandas
+numpy
